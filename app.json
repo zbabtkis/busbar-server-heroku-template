@@ -1,0 +1,6 @@
+{
+  "name": "Busbar Server",
+  "description": "A busbar server template, ready to be configured",
+  "repository": "https://github.com/busbar-io/busbar-server",
+  "keywords": ["heroku", "busbar", "infrastructure"]
+}
